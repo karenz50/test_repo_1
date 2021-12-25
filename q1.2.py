@@ -29,5 +29,4 @@ def calc_lonely_cow(total_cows, cow_str):
 if __name__ == "__main__":
     total_cows, cow_str = get_input()
     #total_cows, cow_str = 5, "GHGHG"
-    #total_cows, cow_str = 5, "GHGHG"
     print(calc_lonely_cow(total_cows, cow_str))
